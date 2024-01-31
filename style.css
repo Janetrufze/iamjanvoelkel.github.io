@@ -1,0 +1,6 @@
+#main-content{
+    background-color: #3e3e3e;
+    opacity: 0.9;
+    background: radial-gradient(circle, transparent 20%, #3e3e3e 20%, #3e3e3e 80%, transparent 80%, transparent), radial-gradient(circle, transparent 20%, #3e3e3e 20%, #3e3e3e 80%, transparent 80%, transparent) 67.5px 67.5px, linear-gradient(#ffffff 5.4px, transparent 5.4px) 0 -2.7px, linear-gradient(90deg, #ffffff 5.4px, #3e3e3e 5.4px) -2.7px 0;
+    background-size: 135px 135px, 135px 135px, 67.5px 67.5px, 67.5px 67.5px;
+}
